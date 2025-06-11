@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+*.pyc
+*.pyo
+__pycache__/
+
+*.log
+
+data.csv
+
+/build/
+
+
+GroundingDINO-patch/weights/groundingdino_swint_ogc.pth
