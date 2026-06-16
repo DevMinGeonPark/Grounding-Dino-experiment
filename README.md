@@ -1,3 +1,5 @@
+한국어 | [English](README.en.md)
+
 # GroundingDINO로 결정(Crystal) 불량 탐지하기
 
 결정 현미경 이미지에서 불량을 찾는데, 따로 학습시키거나 라벨을 달지 않습니다. 비전-언어 모델인
